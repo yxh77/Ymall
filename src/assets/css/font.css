@@ -1,0 +1,13 @@
+.yxh-depict_font{
+    color: gray;
+    font-size: 14px;
+}
+
+.yxh-move_font{
+    transition: .8s;
+    font-family: Arial;
+}
+
+.yxh-move_font:hover{
+    color: red;
+}

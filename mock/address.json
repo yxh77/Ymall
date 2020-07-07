@@ -1,0 +1,36 @@
+{
+  "status":"0",
+  "result":[
+    {
+        "addressId":0,
+        "userName":"yangxuhui",
+        "streetName":"hangzhou",
+        "tel":"123",
+      "isDefault":1
+    },
+
+    {
+      "addressId":1,
+      "userName":"yangxuhui",
+      "streetName":"beijing",
+      "tel":"55465314",
+      "isDefault":0
+    },
+
+    {
+      "addressId":2,
+      "userName":"yangxuhui",
+      "streetName":"lxx",
+      "tel":"5646123521",
+      "isDefault":0
+    },
+
+    {
+      "addressId":3,
+      "userName":"llx",
+      "streetName":"shanghai",
+      "tel":"1321234523",
+      "isDefault":0
+    }
+  ]
+}

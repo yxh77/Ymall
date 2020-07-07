@@ -1,0 +1,43 @@
+{
+  "status":"0",
+  "result":[
+    {
+        "productId":"10001",
+        "productName":"小米6",
+        "prodcutPrice":"2499",
+        "prodcutImg":"mi6.jpg",
+      "checked":"1",
+      "productNum": 0,
+      "salePrice": 100
+    },
+
+    {
+      "productId":"10003",
+      "productName":"小米6",
+      "prodcutPrice":"2499",
+      "prodcutImg":"mi6.jpg",
+      "checked":"1",
+      "productNum": 0,
+      "salePrice": 300
+    },
+
+    {
+      "productId":"10005",
+      "productName":"小米6",
+      "prodcutPrice":"2499",
+      "prodcutImg":"2.jpg",
+      "checked":"0",
+      "productNum": 0,
+      "salePrice": 150
+    },
+    {
+      "productId":"10006",
+      "productName":"小米6",
+      "prodcutPrice":"2499",
+      "prodcutImg":"3.jpg",
+      "checked":"0",
+      "productNum": 0,
+      "salePrice": 200
+    }
+  ]
+}
